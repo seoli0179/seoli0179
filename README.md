@@ -6,7 +6,7 @@
 안녕하세요, Backend Developer 서리입니다.
 <br/><br/>
   
-  ## Contact
+  ## Contact 📞
   <a href="https://seoli.notion.site/seoli/s-Blog-7895843beb10492baeed5b3853300f14">
    <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white"/>
   </a>

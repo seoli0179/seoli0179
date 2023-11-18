@@ -1,18 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello%20World!&desc=Seoli%20GitHub&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
 <div align=center>
-<!--소개-->
-
+  
 ## Introduction :raised_hands:
-안녕하세요, 백엔드 개발자 서리입니다.
+안녕하세요, Backend Developer 서리입니다.
 <br/><br/>
   
   ## Contact
   <a href="https://seoli.notion.site/seoli/s-Blog-7895843beb10492baeed5b3853300f14">
    <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white"/>
   </a>
+  <a href="https://github.com/seoli0179">
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    </a>
+    <a target="_blank" href="mailto:seoli0179@kakao.com">
  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    </a>
  <br/>
  <br/>
  

@@ -7,13 +7,13 @@
 <br/><br/>
   
   ## Contact 📞
-  <a href="https://seoli.notion.site/seoli/s-Blog-7895843beb10492baeed5b3853300f14">
+  <a href="https://seoli.notion.site/seoli/s-Blog-7895843beb10492baeed5b3853300f14" style="text-decoration:none">
    <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white"/>
   </a>
-  <a href="https://github.com/seoli0179">
+  <a href="https://github.com/seoli0179" style="text-decoration:none">
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
     </a>
-    <a target="_blank" href="mailto:seoli0179@kakao.com">
+    <a target="_blank" href="mailto:seoli0179@kakao.com" style="text-decoration:none">
  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
     </a>
  <br/>

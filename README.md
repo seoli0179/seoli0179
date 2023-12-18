@@ -3,7 +3,8 @@
 <div align=center>
   
 ## Introduction :raised_hands:
-안녕하세요, Backend Developer 서리입니다.
+안녕하세요, Backend Developer 서리입니다.<br/>
+부족한 신입이지만 도전하고 성장하는 개발자입니다.
 <br/><br/>
   
   ## Contact 📞

@@ -5,7 +5,6 @@
 ## Introduction :raised_hands:
 안녕하세요, 신입 Backend Developer 서리입니다.<br/>
 부족하지만 멈추지않고 성장하는 개발자입니다.<br/>
-<a href="https://seoli.notion.site/seoli/26-0613adcc687548b0ba0a4838ffbf8495" style="text-decoration:none">이력서</a>와 <a href="https://seoli.notion.site/seoli/s-Blog-7895843beb10492baeed5b3853300f14" style="text-decoration:none">블로그</a>도 준비했습니다.
 <br/><br/>
   
   ## Contact 📞
